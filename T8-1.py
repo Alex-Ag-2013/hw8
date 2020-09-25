@@ -5,6 +5,7 @@
 месяца и года (например, месяц — от 1 до 12). Проверить работу полученной структуры на реальных данных.
 '''
 
+
 class Date:
     date_str = input('Type some date formatted as ''dd-mm-yyyy'': ').split('-')
     def __init__(self):

@@ -12,7 +12,6 @@
 изученных на уроках по ООП.
 '''
 
-
 class Depot:
     max_capacity = 1000
     current_cap = 0
